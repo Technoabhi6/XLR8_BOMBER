@@ -2,10 +2,10 @@
 
 #------------------------------------------------------#
 #                   XLR8 BOMBER 3.0 !                  #
-#               Coded by Anubhav Kashyap               #
+#               Coded by Avdesh kummar                 #
 #~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ #
-#      Github     :   github.com/anubhavanonymous      #
-#     Instagram  :  instagram.com/anubhavanonymous     #
+#      Github     :   github.com/technoabhi6           #
+#     Instagram  :  instagram.com/technoabhi6          #
 #------------------------------------------------------#
 #               Dont try to Steal it Bitch             #
 #------------------------------------------------------#
@@ -52,7 +52,7 @@ echo ""
 }
 
 #    Check Internet
-wget -q --spider https://github.com/anubhavanonymous
+wget -q --spider https://github.com/technoabhi6 
 
 if [ $? -eq 0 ]; then
     just
